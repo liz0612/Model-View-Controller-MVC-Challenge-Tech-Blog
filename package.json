@@ -1,0 +1,30 @@
+{
+  "name": "model-view-controller-mvc-challenge-tech-blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liz0612/Model-View-Controller-MVC-Challenge-Tech-Blog.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liz0612/Model-View-Controller-MVC-Challenge-Tech-Blog/issues"
+  },
+  "homepage": "https://github.com/liz0612/Model-View-Controller-MVC-Challenge-Tech-Blog#readme",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "connect-session-sequelize": "^7.1.7",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-handlebars": "^8.0.1",
+    "express-session": "^1.18.1",
+    "pg": "^8.13.1",
+    "sequelize": "^6.37.5"
+  }
+}
